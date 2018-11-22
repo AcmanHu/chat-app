@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "这是相机",
+  "usingComponents": {
+    "i-button": "../../../static/iview/button/index",
+    "i-divider": "../../../static/iview/divider/index"
+  }
+}

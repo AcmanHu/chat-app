@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "学生登陆",
+  "usingComponents": {
+    "i-button": "../../../static/iview/button/index",
+    "i-input": "../../../static/iview/input/index",
+    "i-message": "../../../static/iview/message/index"
+  }
+}
